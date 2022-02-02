@@ -1,0 +1,91 @@
+body {
+    font-family: Arial;
+}
+#logo {
+   text-align: center;
+}
+.main {
+   
+   width:350px;
+   height:290px;
+   margin:0 auto;
+   border: 1px solid black;
+   padding:30px;
+   border-radius: 5px;
+}
+#Signin {
+   font-size:28px;
+   margin-top:-15px;
+   font-weight: 500;
+   
+}
+#number {
+   font-size: 13px;
+   font-weight: 700;
+   margin-top:10px;
+   margin-bottom: 10px;
+   
+}
+#continue {
+      margin-top: 10px;;
+      height: 30px;
+      font-size: 13px;
+      padding:0 117px;
+      border:1px solid gray;
+      
+   
+
+}
+#email {
+           height: 30px;
+}
+#conditions {
+   font-size: 12px;
+   margin-top: 20px;
+}
+#help {
+font-size: 12px;
+margin-top: 30px;
+} 
+#new {
+font-size: 12px;
+color:grey;
+text-align: center;
+margin-top: 25px;
+}
+a {
+   text-decoration: none;
+}
+a:hover {
+   text-decoration: underline;
+}
+#create {
+   
+   margin-top:10px;
+   font-size: 13px;
+   padding:5px 87px;
+   border-radius: 5px;
+   border:1px solid gray;
+   font-weight:500 ;
+}
+#create1 {
+text-align: center;
+}
+#footer1 {
+   text-align: center;
+   font-size: 11px;
+   
+}
+.margin {
+   margin-left: 15px;
+   
+}
+hr {
+   margin-top: 25px;
+   margin-bottom:25px ;
+}
+#footer2 {
+text-align: center;
+   font-size: 11px;
+   margin-top: 10px;
+}
